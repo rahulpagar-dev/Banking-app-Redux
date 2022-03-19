@@ -1,0 +1,21 @@
+.ParentContainer{
+display: flex;
+justify-content: center;
+flex-direction: column;
+text-align: center;
+margin-top: 50px;
+width: 60%;
+float: center;
+
+}
+.Gcontainer{
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+#Acc{
+    width: 30%;
+}
+
